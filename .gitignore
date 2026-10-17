@@ -1,0 +1,15 @@
+# 构建产物
+build/
+dist/
+preview/
+.build/
+.swiftpm/
+.spm-build/
+.spm-cache/
+.spm-config/
+.spm-security/
+.modulecache/
+.tmp/
+
+# macOS
+.DS_Store
